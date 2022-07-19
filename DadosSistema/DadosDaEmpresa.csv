@@ -1,0 +1,10 @@
+Matricula,Nome,Data/Nasc,Sexo,CPF,Endereço,Telefone,Email,Serviços/Funcao
+1,João Santino,1998-01-03,True,123456789,Rua 1,23456789,email1@gmail.com,"['matemática', 'inglês']"
+2,Maria Vitctoria,2000-01-04,False,123456789,Rua 2,22222223,emailmaria@hotmail.com,['matemática']
+3,Léo Sales,2001-02-10,True,123456789,Rua 3,33333334,emailleo@hotmail.com,"['matemática', 'português']"
+4,Madre Teresino,2002-01-14,False,123456789,Rua Denório,44444449,emailmadre@hotmail.com,"['matemática', 'fisica']"
+5,Thiago Ferreira,1990-08-21,True,123456789,Rua Flincher,66666666,thiagoa@hotmail.com,['matemática']
+6,Douglas Costela,1999-04-16,True,123456789,Rua 14,72538173,costadouglas@hotmail.com,"['português', 'teologia']"
+7,Snnider Scharwttiger,2008-01-11,True,123456789,Rua das 24,13582849,desta@hotmail.com,"['fisica', 'quimica']"
+12345,André,2002-02-20,True,66485800461,Avenida nascimento de castro 1640,988111773,andredamasiodemiranda@gmail.com,"['fisica', 'matematica']"
+12345,Kleyton,1998-06-10,True,38593800438,Avenida nascimento de castro 123,988111873,profkneenndey@gmail.com,"['quimica', 'portugues']"
