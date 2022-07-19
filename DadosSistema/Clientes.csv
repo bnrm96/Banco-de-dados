@@ -1,4 +1,4 @@
-Matricula,Nome,Data/Nasc,Sexo,CPF,Endereço,Telefone,Email,servico
+Matricula,Nome,Data/Nasc,Sexo,CPF,Endereço,Telefone,Email,Serviços
 1,João Santino,1998-01-03,True,123456789,Rua 1,23456789,email1@gmail.com,"['matemática', 'inglês']"
 2,Maria Vitctoria,2000-01-04,False,123456789,Rua 2,22222223,emailmaria@hotmail.com,['matemática']
 3,Léo Sales,2001-02-10,True,123456789,Rua 3,33333334,emailleo@hotmail.com,"['matemática', 'português']"
