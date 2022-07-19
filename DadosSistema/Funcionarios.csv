@@ -1,0 +1,3 @@
+Matricula,Nome,CPF,Sexo,Endereço,Telefone,Email,Data/Nasc,Função
+12345,André,2002-02-20,True,66485800461,Avenida nascimento de castro 1640,988111773,andredamasiodemiranda@gmail.com,"['fisica', 'matematica']"
+12345,Kleyton,1998-06-10,True,38593800438,Avenida nascimento de castro 123,988111873,profkneenndey@gmail.com,"['quimica', 'portugues']"
