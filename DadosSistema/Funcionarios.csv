@@ -1,5 +1,5 @@
-Matricula,Nome,Data/Nasc,Sexo,CPF,Endereço,Telefone,Email,Serviços
-12345,André Claiton,2002-02-20,True,12345678911,Avenida nascimento de castro 1640,988111773,andredamasiodemiranda@gmail.com,"['fisica', 'matematica']"
-92745,Kleyton Benzerro,1998-06-10,True,12369372892,Avenida nascimento de castro 123,188211873,profkneenndey@gmail.com,"['quimica', 'portugues']"
+Matricula,Nome,Data/Nasc,Sexo,CPF,Endereço,Telefone,Email,Função
+12345,André Claiton,2002-02-20,True,66485800461,Avenida nascimento de castro 1640,988111773,andredamasiodemiranda@gmail.com,"['fisica', 'matematica']"
+92745,Kleyton Benzerro,1998-06-10,True,38593800438,Avenida nascimento de castro 123,188211873,profkneenndey@gmail.com,"['quimica', 'portugues']"
 23792,Romário Sideny,1969-06-13,True,10294800438,Av. Rui Babosa 923,988281777,profromario@gmail.com,"['religiao', 'artes']"
 23470,Luciana Ximenesdes,1991-10-19,False,90298491638,Rua zenaide pereira 1994,987293614,profximendes@hotmail.com,"['banco de dados', 'redes']"
