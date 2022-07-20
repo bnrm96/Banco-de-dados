@@ -8,3 +8,5 @@ Matricula,Nome,Data/Nasc,Sexo,CPF,Endereço,Telefone,Email,Serviços/Funcao
 7,Snnider Scharwttiger,2008-01-11,True,123456789,Rua das 24,13582849,desta@hotmail.com,"['fisica', 'quimica']"
 12345,André,2002-02-20,True,66485800461,Avenida nascimento de castro 1640,988111773,andredamasiodemiranda@gmail.com,"['fisica', 'matematica']"
 12345,Kleyton,1998-06-10,True,38593800438,Avenida nascimento de castro 123,988111873,profkneenndey@gmail.com,"['quimica', 'portugues']"
+23792,Romário Sideny,1969-06-13,True,10294800438,Av. Rui Babosa 923,988281777,profromario@gmail.com,"['religiao', 'artes']"
+23470,Luciana Ximenesdes,1991-10-19,False,90298491638,Rua zenaide pereira 1994,987293614,profximendes@hotmail.com,"['banco de dados', 'redes']"
